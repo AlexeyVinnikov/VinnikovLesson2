@@ -1,4 +1,4 @@
-package com.example.vinnikov;
+package com.mirea.vinnikov;
 
 import org.junit.Test;
 

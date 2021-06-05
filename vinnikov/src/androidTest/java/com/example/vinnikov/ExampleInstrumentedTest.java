@@ -1,4 +1,4 @@
-package com.example.vinnikov;
+package com.mirea.vinnikov;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.vinnikov", appContext.getPackageName());
+        assertEquals("com.mirea.vinnikov", appContext.getPackageName());
     }
 }

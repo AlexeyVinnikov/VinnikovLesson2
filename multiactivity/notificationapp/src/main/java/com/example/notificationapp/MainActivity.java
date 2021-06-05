@@ -1,4 +1,4 @@
-package com.example.notificationapp;
+package com.mirea.notificationapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NotificationCompat;

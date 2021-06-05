@@ -1,4 +1,4 @@
-package com.example.intentfilter;
+package com.mirea.intentfilter;
 
 import org.junit.Test;
 

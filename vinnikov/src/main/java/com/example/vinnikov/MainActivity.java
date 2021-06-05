@@ -1,4 +1,4 @@
-package com.example.vinnikov;
+package com.mirea.vinnikov;
 
 import androidx.appcompat.app.AppCompatActivity;
 
